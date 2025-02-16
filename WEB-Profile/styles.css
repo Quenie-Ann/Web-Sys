@@ -62,7 +62,7 @@ body {
 .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.3s;
-    padding: 16px; /* Add padding inside cards */
+    padding: 10px; /* Add padding inside cards */
 }
 
 .card:hover {
@@ -80,12 +80,13 @@ body {
 }
 
 .third {
-    width: 33.33%;
+    width: 30.30%;
+    height: 100%;
     float: left;
 }
 
 .twothird {
-    width: 66.66%;
+    width: 69.70%;
     float: left;
 }
 
@@ -98,7 +99,7 @@ body {
     position: absolute;
     bottom: 0;
     left: 0;
-    padding: 8px; /* Add padding to the name overlay */
+    padding: 10px; /* Add padding to the name overlay */
 }
 
 /* Progress Bars */
@@ -131,7 +132,7 @@ body {
 
 /* Add padding to containers inside cards */
 .container {
-    padding: 16px; /* Add padding to all containers inside cards */
+    padding: 16px;
 }
 
 /* Add padding to the footer */
